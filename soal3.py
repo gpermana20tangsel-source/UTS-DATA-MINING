@@ -7,6 +7,7 @@ scores = np.array([
     [40, 50, 45]
 ])
 
+#jawaban
 # 1. Rata-rata setiap mahasiswa
 rata_rata = np.mean(scores, axis=1)
 

@@ -8,6 +8,7 @@ df_data = {
     'Pengalaman_Tahun': [5, 3, 6, 2, 1]
 }
 
+#jawaban
 # Membuat DataFrame
 df = pd.DataFrame(df_data)
 
